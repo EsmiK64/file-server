@@ -1,3 +1,6 @@
-# file-server
+# File Server
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/EsmiK64/file-server)
+A package you can deploy on a local server to have a full-stack file hosting expirience. Will update this readme later.
+
+Progress:
+- Started UI design
